@@ -1,0 +1,479 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RESUME</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css">
+</head>
+
+<body>
+
+    <div class="big_container">
+
+        <!--left sider-->
+        <div class="container">
+            <header>
+
+                <h1>JANE FITZ </h1>
+
+                <section id="details">
+                    <h2>Personal details</h2>
+
+
+
+                    <ul class="contact-info">
+                        <li><i class="fa-regular fa-address-card"></i>Jane Fitz</li>
+                        <li><i class="fa-solid fa-envelope"></i>jane.fitz@gmail.com</li>
+                        <li><i class="fa-solid fa-phone"></i> (222) 345-6789</li>
+                        <li><i class="fa-solid fa-house-chimney"></i>24 Pleasant Street Scranton,PA</li>
+                        <li><i class="fa-brands fa-linkedin"></i>linkedin.com/in/janefitz</li>
+                    </ul>
+                </section>
+            </header>
+
+
+            <div class="hard-skills">
+                <h2 style="color: #465e80;">Hard Skills</h2>
+
+
+
+                <table id="skill">
+                    <tr>
+                        <th>Poject Management </th>
+
+                        <th class="circles"><i class="fa-solid fa-circle"> </i><i class="fa-solid fa-circle"></i><i
+                                class="fa-solid fa-circle"></i><i class="fa-solid fa-circle"></i><i
+                                class="fa-solid fa-circle"></i> </th>
+
+                    </tr>
+                    <tr>
+                        <th>
+                            software
+                        </th>
+                    </tr>
+
+                    <tr>
+                        <th>Microsoft office </th>
+                        <th class="circles"><i class="fa-solid fa-circle"></i><i class="fa-solid fa-circle"></i><i
+                                class="fa-solid fa-circle"></i><i class="fa-solid fa-circle"></i><i
+                                class="fa-solid fa-circle"></i> </th>
+                    </tr>
+                    <tr>
+                        <th>Google</th>
+                        <th class="circles"><i class="fa-solid fa-circle"></i><i class="fa-solid fa-circle"></i><i
+                                class="fa-solid fa-circle"></i><i class="fa-solid fa-circle"></i><i
+                                class="fa-solid fa-circle"></i></th>
+                    </tr>
+                    <tr>
+                        <th>
+                            Workspace
+                        </th>
+                    </tr>
+                    <tr>
+                        <th>Slack </th>
+                        <th class="circles"><i class="fa-solid fa-circle"></i><i class="fa-solid fa-circle"></i><i
+                                class="fa-solid fa-circle"></i><i class="fa-solid fa-circle"></i><i id="grey"
+                                class="fa-solid fa-circle Slack " style="color: grey;"></i> </th>
+                    </tr>
+                    <tr>
+                        <th>Cloud Comuting </th>
+                        <th class="circles"><i class="fa-solid fa-circle"></i><i class="fa-solid fa-circle"></i><i
+                                class="fa-solid fa-circle"></i><i class="fa-solid fa-circle"></i><i
+                                class="fa-solid fa-circle"></i> </th>
+                    </tr>
+                    <tr>
+                        <th>Database Management </th>
+                        <th class="circles"><i class="fa-solid fa-circle"></i><i class="fa-solid fa-circle"></i><i
+                                class="fa-solid fa-circle"></i><i class="fa-solid fa-circle"></i><i
+                                class="fa-solid fa-circle"></i></th>
+                    </tr>
+                </table>
+            </div>
+
+        </div>
+
+        <!--right side infromation-->
+
+        <div class="container_2">
+            <section id="summary">
+                <h2>Summary</h2>
+
+                <P>Organized and efficient project manager with 11+ year of experience managing largr-scale cloud
+                    comuting
+                    and
+                    IT- related project. seeking to leverage leadership experience and in-depth cloud computing
+                    knowlege to
+                    join
+                    amazon as an IT project manager</P>
+            </section>
+
+            <section id="work-experience">
+                <h2>Work Experience</h2>
+
+                <div class="job">
+                    <div>
+                        <span class="job-title"><b>Project Manager</b></span>
+                        <span class="job-period"><b>Apr 2017-Present</b></span>
+                    </div>
+                    <p class="paragrap"><span>Pantheon computing scranton PA</span> </p>
+
+                    <ul class="list">
+                        <li>Mangend cloud computing projet that involvend all 60 employee</li>
+                        <li> Managed training and onboarding of new employees</li>
+                        <li>Designed a new onboard program that cut lead time by 30% and cut costs by 40%</li>
+                        <li>Led 15+ additional smaller project each year</li>
+                    </ul>
+                </div>
+
+            </section>
+
+            <section id="project-manager">
+
+                <div class="job">
+                    <div>
+                        <span class="job-title"><b>Project Manager</b></span>
+                        <span class="job-period"> <b>JUL 2011-Apr2017</b> </span>
+                    </div>
+                    <p class="paragrap"><span>Racon Solution,Scranton PA</span> </p>
+
+                    <UL class="list">
+                        <li>Promoted to project manager after just over a year</li>
+                        <li>Managed and led the company's cloud computing project</li>
+                        <li>Stratagized and created goals,deading,schedules,budgets,and identified necessary resources
+                            and team
+                            members</li>
+                        <li>presented progress,issues,and final results to upper managememnt</li>
+                    </UL>
+                </div>
+            </section>
+
+            <section id="assistant">
+                <div class="job">
+                    <div>
+                        <span class="job-title"><b>Administrative Assistant</b></span>
+                        <span class="job-period"><b>May 2010-Jul 2011</b></span>
+                    </div>
+                    <p class="paragrap"><span>Racon Solution,Scranton,PA</span></p>
+
+                    <ul class="list">
+                        <li>Managed schedules and interdepartmental communication for entire IT department </li>
+                        <li>Handled and directed all incoming client telephone calls</li>
+                        <li>Actively maintained product knowledge in order to answer basic supp requests</li>
+                        <li>Maintained IT department's digital filing system</li>
+                        <li>"Problem-solved and handled many tasks on multiple projects simultaneously</li>
+                    </ul>
+                </div>
+            </section>
+
+            <section id="education">
+                <h2>Education</h2>
+
+                <div class="job">
+                    <div>
+                        <span class="job-period"><b>2006-2010</b></span>
+                    </div>
+                    <p class="ed-pragrap"> <span><b>Bachelor of Science in Business</b> </span></p>
+                    <p class="ed-pragrap"><span> <b>Administration</b></span>
+                    </p>
+                    <p class="paragrap">University of connecticut,Mansfield,CT</p>
+
+
+            </section>
+
+            <div>
+                <div class="soft_skill">
+                    <h2>Soft Skills</h2>
+                </div>
+
+
+                <table id="skill_1">
+                    <tr>
+                        <th>Leadership </th>
+                        <th class="icon"><i class="fa-solid fa-circle"></i><i class="fa-solid fa-circle"></i><i
+                                class="fa-solid fa-circle"></i><i class="fa-solid fa-circle"></i><i
+                                class="fa-solid fa-circle"></i> <i class="fa-solid fa-circle"></i><i
+                                class="fa-solid fa-circle"></i><i class="fa-solid fa-circle"></i><i
+                                class="fa-solid fa-circle"></i><i class="fa-solid fa-circle"></i> </th>
+                    </tr>
+
+                    <tr>
+                        <th>Organization </th>
+                        <th class="icon"><i class="fa-solid fa-circle"></i><i class="fa-solid fa-circle"></i><i
+                                class="fa-solid fa-circle"></i><i class="fa-solid fa-circle"></i><i
+                                class="fa-solid fa-circle"></i><i class="fa-solid fa-circle"></i><i
+                                class="fa-solid fa-circle"></i><i class="fa-solid fa-circle"></i><i
+                                class="fa-solid fa-circle"></i><i class="fa-solid fa-circle"></i> </th>
+                    </tr>
+                    <tr>
+                        <th>Problem solving</th>
+                        <th class="icon"><i class="fa-solid fa-circle"></i><i class="fa-solid fa-circle"></i><i
+                                class="fa-solid fa-circle"></i><i class="fa-solid fa-circle"></i><i
+                                class="fa-solid fa-circle"></i><i class="fa-solid fa-circle"></i><i
+                                class="fa-solid fa-circle"></i><i class="fa-solid fa-circle"></i><i
+                                class="fa-solid fa-circle"></i><i class="fa-solid fa-circle"></i> </th>
+                    </tr>
+                    <tr>
+                        <th>Planning</th>
+                        <th class="icon"><i class="fa-solid fa-circle"></i><i class="fa-solid fa-circle"></i><i
+                                class="fa-solid fa-circle"></i><i class="fa-solid fa-circle"></i><i
+                                class="fa-solid fa-circle"></i><i class="fa-solid fa-circle"></i><i
+                                class="fa-solid fa-circle"></i><i class="fa-solid fa-circle"></i><i
+                                class="fa-solid fa-circle"></i><i class="fa-solid fa-circle"></i> </th>
+                    </tr>
+                    <tr>
+                        <th>Management</th>
+                        <th class="icon"><i class="fa-solid fa-circle"></i><i class="fa-solid fa-circle"></i><i
+                                class="fa-solid fa-circle"></i><i class="fa-solid fa-circle"></i><i
+                                class="fa-solid fa-circle"></i><i class="fa-solid fa-circle"></i><i
+                                class="fa-solid fa-circle"></i><i class="fa-solid fa-circle"></i><i
+                                class="fa-solid fa-circle"></i><i class="fa-solid fa-circle"></i> </th>
+                    </tr>
+
+                </table>
+
+            </div>
+
+        </div>
+    </div>
+
+</body>
+
+</html>
+
+
+
+//CSS
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.big_container {
+    display: flex;
+}
+
+.container {
+    background-color: #edf1f2;
+    width: 470px;
+}
+
+.container h2 {
+    border-bottom: 2px solid #e1e4e5;
+    padding-bottom: 10px;
+}
+
+#details {
+    color: #475e7d;
+    margin-top: 28px;
+
+}
+
+#details h2 {
+    padding-left: 15px;
+}
+
+header h1 {
+    background-color: #395a87;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    border-bottom-left-radius: 76px 21px;
+    border-top-right-radius: -4px 30px;
+    width: 100%;
+}
+
+.contact-info {
+    list-style: none;
+    /*Removes bullet points*/
+
+}
+
+ul.contact-info {
+    margin-bottom: 15px;
+    /*Adds space between  list item*/
+    padding: 0;
+    margin: 0;
+    padding: 17px;
+}
+
+ul.contact-info li {
+    display: flex;
+    /*Make icon and text appear side by side */
+    align-items: center;
+    /*Vertiically centers the icon with the text*/
+    margin-bottom: 15px;
+    /*Adds space between the icon and text */
+    font-size: 16px;
+    /*Adjust icon size */
+
+}
+
+ul.contact-info li i {
+    color: #385986;
+    margin-right: 10px;
+    /*Adds space between icon and text*/
+    font-size: 18px;
+    /*Adjust the size of the icon*/
+
+}
+
+.hard-skills {
+    padding-left: 6px;
+}
+
+.hard-skills h2 {
+    padding-left: 8px;
+}
+
+#skill th i {
+    color: #385986;
+    font-size: 10px;
+    width: 10px;
+}
+
+#grey {
+    color: #646161;
+}
+
+.circles {
+
+    gap: 5px;
+
+    padding-left: 15px;
+    color: #3a5984;
+    display: flex;
+
+    padding-top: 10px;
+
+
+}
+
+#skill {
+    text-align: left;
+    padding-top: 10px;
+
+}
+
+
+
+/*CONTAINER-2*/
+
+.container_2 {
+    padding: 10px;
+
+}
+
+.container_2 h2 {
+    border-bottom: 2px solid #e1e4e5;
+    padding-bottom: 10px;
+}
+
+#summary h2 {
+    color: #65768e;
+    padding-top: 25px;
+    padding-right: 5px;
+    margin-left: 14px;
+}
+
+#summary p {
+    margin: 20px;
+}
+
+#work-experience h2 {
+    color: #65768e;
+    margin-left: 5px;
+}
+
+.job div {
+    padding-top: 10px;
+    padding-left: 1px;
+}
+
+.job-period {
+    float: right;
+    color: #4c617c;
+    padding-top: 10px;
+}
+
+.paragrap {
+    color: #919aa9;
+
+}
+
+.list {
+    margin-left: 30px;
+}
+
+#project-manager h4 {
+    color: #65768e;
+    margin-left: 5px;
+    padding-top: 20px;
+}
+
+#project-manager div {
+    padding-top: 10px;
+    padding-left: 5px;
+}
+
+#assistant div {
+    padding-top: 5px;
+    padding-left: 5px;
+}
+
+
+#education h2 {
+    color: #496080;
+    padding-top: 13px;
+    padding-left: 5px;
+}
+
+#education .job-title {
+    padding-top: 10px;
+}
+
+#skill_1 {
+    text-align: left;
+    padding-top: 10px;
+
+}
+
+.soft_skill h2 {
+    color: #526680;
+    padding-top: 20px;
+    padding-left: 5px;
+}
+
+.skill_1 th {
+    padding-top: 50px;
+}
+
+#skill th i {
+    color: #385986;
+}
+
+.april {
+    display: flex;
+}
+
+.icon {
+    padding-left: 225px;
+    color: #3a5984;
+    display: flex;
+    gap: 5px;
+    padding-top: 10px;
+}
+
+.hard-skills-data {
+    margin-left: 10px;
+}
